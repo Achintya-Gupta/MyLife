@@ -1,0 +1,27 @@
+#img1{
+    height: 70%;
+}
+
+#img2{
+    height: 10%;
+}
+
+.header{
+    font-family:fantasy;
+}
+
+#h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color:cadetblue;
+}
+
+#b2{
+    background-color:darkgray;
+}
+
+#b3{
+    background-color:darkseagreen;
+}
